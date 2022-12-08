@@ -1,0 +1,11 @@
+
+#remove{
+    padding: 5px;
+    background-color: rgb(190, 4, 4);
+    border: 0px;
+    color: white;
+    width: 25px;
+}
+.box{
+    margin: 10px;
+}
